@@ -27,7 +27,7 @@
 <br/><br/>
 <h1 align="left">Activity Stats:</h1>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=laithalfar&show_icons=true&locale=en" alt="laithalfar" /></p>
-<br/><br/>
+<br/><br/><br/><br/>
 <h1 align="left">Stats:</h1>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laithalfar&" alt="laithalfar" /></p>
 
