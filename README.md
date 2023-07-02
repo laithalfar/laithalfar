@@ -26,7 +26,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laithalfar&show_icons=true&locale=en&layout=compact" alt="laithalfar" /></p>
 
 <h1 align="left">Activity Stats:</h1>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laithalfar&show_icons=true&locale=en" alt="laithalfar" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=laithalfar&show_icons=true&locale=en" alt="laithalfar" /></p>
 
 <h1 align="left">Stats:</h1>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laithalfar&" alt="laithalfar" /></p>
