@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Laith Al Far</h1>
 <h3 align="center">Graduate of Electronics and Computer engineer at University of Nottingham with a score of 2:1</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=laithalfar&label=Profile%20views&color=0e75b6&style=flat" alt="laithalfar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=laithalfar&label=Profile%40views&color=0e75b6&style=flat" alt="laithalfar" /> </p>
 
 - 🔭 I’m currently working on **Developing my portfolio and job application requirements**
 
